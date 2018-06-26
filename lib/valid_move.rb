@@ -4,7 +4,7 @@ if (index.between?(0,8) && position_taken)
   return true
 else if (index.between?(0,8))
   return false
-else 
+else
   return nil
 end
 end
